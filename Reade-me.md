@@ -27,7 +27,7 @@ Um jogo de Sudoku desenvolvido em Java com interface gráfica, geração aleató
 
 ### Passo 1: Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/sudoku-java.git
+git clone https://github.com/JoseJoaquimjj133/DIO-Projeto-Sudoku
 cd sudoku-java
 
 Passo 2: Compilar o Projeto
